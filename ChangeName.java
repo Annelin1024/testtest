@@ -2,6 +2,7 @@
 public class Dog implements getWeightMethod{
 	private String name;
 	private double weight;
+	private String addinhotfix
 	
 	public Dog() {
 		super();
